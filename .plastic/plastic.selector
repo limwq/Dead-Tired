@@ -1,0 +1,3 @@
+repository "Dead Tired/Dead Tired@18968215030944@cloud"
+  path "/"
+    smartbranch "/main"
